@@ -1,6 +1,6 @@
-##How to generate Tag36h11 family AprilTag mosaic
+## How to generate Tag36h11 family AprilTag mosaic
 
-####ApirlTags are arranged in grids. Id of the tags starts from 0 at the top left corner.
+#### ApirlTags are arranged in grids. Id of the tags starts from 0 at the top left corner.
 
 1. Open **tag_mosaic.ps** with text editor
 2. Find the following lines in the begining of the file: 
@@ -13,7 +13,7 @@
     /rows 7 def
     /columns 7 def
     ```
-3. Change settings suitable to your application like physical size of file(height and width), file resolution(DPI), and size of the mosaic (number of rows and columns):
+3. Change settings suitable to your application like physical size of file(height and width), file resolution(DPI), and size of the mosaic (number of rows and columns):\
     **ie.** generating 8.5in x 11in letter size, 72dpi, 5 by 5 mosaic
     ```
     /pagewidth 8.5 72 mul def
