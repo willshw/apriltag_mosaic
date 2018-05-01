@@ -2,7 +2,7 @@
 
 #### ApirlTags are arranged in grids. Id of the tags starts from 0 at the top left corner.
 
-1. Open **tag_mosaic.ps** with text editor
+1. Open **tag-mosaic.ps** with text editor
 2. Find the following lines in the begining of the file: 
     ```
     % set page size and resolution, here 21 inches and 300 DPI
