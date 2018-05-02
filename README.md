@@ -36,6 +36,7 @@
     gs -dDEVICEWIDTHPOINTS=612 -dDEVICEHEIGHTPOINTS=792 /directory/to/input_file.ps
     ```
 
+5. Print the PDF in the right size paper/poster. Pay extra attention to the resolution of the file.
 ---
 * AprilTag image hex are from [AprilTag](https://april.eecs.umich.edu/software/apriltag/)
 * **.ps** file is **PostScript** file. It can be converted to **.pdf** by **gs**
